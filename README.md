@@ -1,1 +1,4 @@
-# EISD-week-1
+# Week-1
+Study Group SD Week 1
+
+Nama Saya faizul
